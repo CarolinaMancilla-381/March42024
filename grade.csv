@@ -1,3 +1,3 @@
-name, assignment, grade, course
-alice, test, 98, math
-brianna, quiz, 50, english
+name, assignment, grade, course, EID
+alice, test, 98, math, E00000001
+brianna, quiz, 50, english, E00000002
